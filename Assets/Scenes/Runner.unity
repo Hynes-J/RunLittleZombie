@@ -1539,7 +1539,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   time: 0
   gameSpeed: 0
-  maxGameSpeed: 100
+  maxGameSpeed: 0.005
   gameIncrementSpeed: 0.0001
   gameRunning: 1
   vcam: {fileID: 1620151859}
